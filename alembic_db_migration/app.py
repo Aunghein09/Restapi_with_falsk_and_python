@@ -6,6 +6,7 @@ from blocklist import BLOCKLIST
 
 import os
 import models
+
 from db import db
 
 from resources.item import blp as ItemBlueprint
